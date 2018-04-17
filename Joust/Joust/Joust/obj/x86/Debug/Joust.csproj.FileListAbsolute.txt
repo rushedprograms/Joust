@@ -1,0 +1,9 @@
+H:\Game Design\Joust\Joust\Joust\obj\x86\Debug\Joust.csprojResolveAssemblyReference.cache
+H:\Game Design\Joust\Joust\Joust\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Game Design\joust\Joust\Joust\bin\x86\Debug\Content\brd.xnb
+H:\Game Design\joust\Joust\Joust\bin\x86\Debug\Joust.exe
+H:\Game Design\joust\Joust\Joust\bin\x86\Debug\Joust.pdb
+H:\Game Design\joust\Joust\Joust\obj\x86\Debug\Joust.exe
+H:\Game Design\joust\Joust\Joust\obj\x86\Debug\Joust.pdb
+H:\Game Design\joust\Joust\Joust\bin\x86\Debug\Content\jsprites.xnb
+H:\Game Design\joust\Joust\Joust\bin\x86\Debug\Content\finalSpriteSheet.xnb
